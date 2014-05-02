@@ -1,5 +1,5 @@
 NOD32:
-  4:
+  4.2.76.0:
     installer: '\\linux\app\Install\NOD32 4\eavbe_nt64_enu.msi'
     full_name: 'NOD32'
     reboot: False
